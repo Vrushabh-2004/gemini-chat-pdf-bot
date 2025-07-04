@@ -1,6 +1,5 @@
 import google.generativeai as genai
 
-# Paste your real Gemini API key directly here for quick test
 genai.configure(api_key="YOUR_GEMINI_API_KEY_HERE")
 
 try:
